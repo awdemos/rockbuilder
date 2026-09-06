@@ -307,7 +307,7 @@ app_list=
 
 `apps/pytorch.cfg` is an example of an application configuration file, defining the actions that RockBuilder executes for a specific project, including:
 
-- inut
+- init
 - checkout
 - clean
 - pre-configure
